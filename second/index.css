@@ -1,0 +1,59 @@
+.box {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.first {
+    border: solid black;
+    width: 550px;
+}
+.purple {
+    background-color: purple;
+    width: 25px;
+    height: 120px;
+    margin-left: 5px;
+    margin-right: 20px;
+}
+.green {
+    background-color: green;
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+}
+.cyan {
+    background-color: cyan;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.dotted {
+    border: dotted black;
+    height: 210px;
+    width: 550px;
+
+}
+.long {
+    height: 160px;
+    background-color: rgb(226, 198, 161);
+    margin-top: 25px;
+    width: 500px;
+    margin-left: 25px;
+    box-shadow: 5px 8px 10px gray ;
+    
+}
+.textbox {
+    border: solid 2px gray;
+    height: 30px;
+    width: 250px;
+    margin-left: 125px;
+    height: 190px;
+
+}
+p {
+    color: blue;
+    margin-left: 75px;
+    margin-top: 80px;
+    font-size: 20px;
+
+}

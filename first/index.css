@@ -1,0 +1,35 @@
+/* body {
+    background-color: rgb(156, 156, 156);
+    width: 800;
+} */
+article {
+    box-sizing: border-box;
+    width: 800px;
+    height: 600px;
+    background-color: white;
+    border-left: 120px solid lightgray;
+    border-right: 120px solid lightgray;
+    /* border-bottom: 40px solid rgb(68, 68, 68); */
+    padding-left: 120px;
+}
+p {
+    margin-left: -120px;
+    margin-top: 0px;
+    width: 560px;
+    height: 80px;
+    background-color: rgb(59, 58, 58);
+    vertical-align: bottom;
+    position:absolute;
+    bottom: 0;
+    top: 67.44%;
+}
+header {
+    background-color: gray;
+    width: 800px;
+    height: 125px;
+}
+div {
+    background-color: lightgray;
+    width: 40;
+    height: 300;
+}
